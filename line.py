@@ -1,4 +1,5 @@
 def line():
+    print("TO DO")
     CoA = float(input("Ingrese el coeficiente A:"))
     CoB = float (input ("Ingrese el coeficiente B:"))
     CoX1 = float (input ("Ingrese el coeficiente X1:"))

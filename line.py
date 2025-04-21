@@ -15,11 +15,15 @@ def line():
     print()
     print("Para la siguiente ecuación:")
     print(f"\tY = {A}X + {B}")
+   
     print()
+   
     print("Dados los siguientes puntos:")
     print(f"\tP1 ({X1}, {Y1})")
     print(f"\tP2 ({X2}, {Y2})")
+    
     print()
+    
     print(f"La distancia entre ellos es: {distancia}")
 
 line()

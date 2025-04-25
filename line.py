@@ -25,5 +25,3 @@ def line():
     print()
     
     print(f"La distancia entre ellos es: {distancia}")
-
-line()

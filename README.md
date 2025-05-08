@@ -2,7 +2,7 @@
 # prog1-tp4-template
 
 ## Ejercicio 1 - Line
-
+ 
 Queremos hacer un programa que nos calcule para una ecuación de primer grado la distancia sobre la recta entre dos
 coordenadas cualquiera del eje X y además me informe de las coordenadas del eje Y a la que corresponde.
 
